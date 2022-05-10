@@ -548,5 +548,26 @@
 			"uri": "https://example.com/qtz.pdf",
 			"appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
 		}]
+	},
+        {
+		"chainId": 3,
+		"saleManagerAddress": "0x93Fe8aC225044A1130806Fafb2848DE97748CaC8",
+		"saleId": "0x2709f5285091bc574982e4d4311fa14e0ccefac04ecbed22a152dd6f578e1d99",
+		"saleName": "UST Futures 1$ (FUST)",
+		"logo": "https://englishlib.org/dictionary/img/wlibrary/f/6018047cf330b8.58847491.jpg",
+		"favicon": "https://image.shutterstock.com/image-vector/f-letter-vector-logo-pixel-260nw-1123830158.jpg",
+		"projectWebsite": "https://www.terra.money",
+		"saleDescription": "UST Futures 1$ (FUST) Public sale",
+		"access": {},
+		"socials": {
+			"twitter": "https://twitter.com/terra_money",
+			"discord": "https://discord.com/invite/terra-money",
+			"telegram": "https://t.me/TerraLunaChat"
+		},
+		"documents": [{
+			"name": "Purchase contract",
+			"uri": "https://etherscan.io/address/0xbd31ea8212119f94a611fa969881cba3ea06fa3d",
+			"appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+		}]
 	}
 ]
